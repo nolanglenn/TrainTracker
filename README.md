@@ -1,6 +1,8 @@
 # TrainTracker
 This app allows you to keep track of different train schedules.
 
+![Train Schedules](assets/images/trainschedule.png?raw=true "Title")
+
 ## How it works
 TrainTracker utilizes Firebase to host arrival times and time to next departure data. Users will be able to add a train and destination to the list of tracked trains.
 
